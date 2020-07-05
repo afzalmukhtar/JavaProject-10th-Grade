@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=str\ ch
+comment0.target=int\ countvowels(String,\ char)
+numComments=1
